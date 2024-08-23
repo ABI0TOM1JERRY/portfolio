@@ -1762,6 +1762,10 @@ span {
     padding: 1.5rem;
 }
 
+.footer-iconTop a {
+    left: 700%;
+}
+
 .certificate {
     margin: 0;
     box-sizing: border-box;
